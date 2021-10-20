@@ -1,0 +1,14 @@
+.kek{
+    overflow-x: scroll;
+}
+td{
+    border: 1px solid blue;
+}
+table{
+    font-size: 20px;
+}
+@media screen and (max-width: 768px){
+    table{
+        font-size: 10px;
+    }
+}
